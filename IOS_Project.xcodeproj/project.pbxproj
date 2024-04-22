@@ -1,0 +1,674 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3F0E584E2BD626EB00AC4509 /* home-care-logo-template-illustration-suitable-for-clinic-medical-hospital-app-mobile-icon-pharmacy-etc-vector 1 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 3F0E584D2BD626EA00AC4509 /* home-care-logo-template-illustration-suitable-for-clinic-medical-hospital-app-mobile-icon-pharmacy-etc-vector 1 (1).png */; };
+		3F935F512BCE1E8D00FEA479 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F935F502BCE1E8D00FEA479 /* AppDelegate.swift */; };
+		3F935F532BCE1E8D00FEA479 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F935F522BCE1E8D00FEA479 /* ViewController.swift */; };
+		3F935F562BCE1E8E00FEA479 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F935F542BCE1E8E00FEA479 /* Main.storyboard */; };
+		3F935F592BCE1E8E00FEA479 /* IOS_Project.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F935F572BCE1E8E00FEA479 /* IOS_Project.xcdatamodeld */; };
+		3F935F5B2BCE1E9300FEA479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F935F5A2BCE1E9300FEA479 /* Assets.xcassets */; };
+		3F935F5E2BCE1E9300FEA479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F935F5C2BCE1E9300FEA479 /* LaunchScreen.storyboard */; };
+		3F935F692BCE1E9300FEA479 /* IOS_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F935F682BCE1E9300FEA479 /* IOS_ProjectTests.swift */; };
+		3F935F742BCE1E9300FEA479 /* IOS_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F935F732BCE1E9300FEA479 /* IOS_ProjectUITests.swift */; };
+		3F935F862BCE226E00FEA479 /* illustration-of-medicines-for-disease-and-vaccinations-flat-symbol-and-icon-for-drugs-health-pharmacy-can-be-used-for-landing-page-website-web-mobile-apps-flyer-banner-template-poster-free-vector 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935F852BCE226E00FEA479 /* illustration-of-medicines-for-disease-and-vaccinations-flat-symbol-and-icon-for-drugs-health-pharmacy-can-be-used-for-landing-page-website-web-mobile-apps-flyer-banner-template-poster-free-vector 1.png */; };
+		3F935FCF2BCE29CD00FEA479 /* lubiark-eye-drop 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FC42BCE29CB00FEA479 /* lubiark-eye-drop 1.png */; };
+		3F935FD02BCE29CD00FEA479 /* 360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FC52BCE29CC00FEA479 /* 360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop 1.png */; };
+		3F935FD12BCE29CD00FEA479 /* aavit-mulivitamins-tablets 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FC62BCE29CC00FEA479 /* aavit-mulivitamins-tablets 1.png */; };
+		3F935FD22BCE29CD00FEA479 /* medicine-syrup-bottle-mockup1 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FC72BCE29CC00FEA479 /* medicine-syrup-bottle-mockup1 1.png */; };
+		3F935FD32BCE29CD00FEA479 /* StockUpdate-Pharmaceuticals-03 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FC82BCE29CC00FEA479 /* StockUpdate-Pharmaceuticals-03 1.png */; };
+		3F935FD42BCE29CD00FEA479 /* Justin-Syrup-Bottle-100ml 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FC92BCE29CC00FEA479 /* Justin-Syrup-Bottle-100ml 1.png */; };
+		3F935FD52BCE29CD00FEA479 /* Free-300ml-Liquid-Medicine-Syrup-Bottle-Mockup-PSD 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FCA2BCE29CC00FEA479 /* Free-300ml-Liquid-Medicine-Syrup-Bottle-Mockup-PSD 1.png */; };
+		3F935FD62BCE29CD00FEA479 /* updated-covid-vaccine 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FCB2BCE29CC00FEA479 /* updated-covid-vaccine 1.png */; };
+		3F935FD72BCE29CD00FEA479 /* Wrong-intramuscular-injection-in-gluteal-region-Pain-in-the-doctors-buttocks 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FCC2BCE29CC00FEA479 /* Wrong-intramuscular-injection-in-gluteal-region-Pain-in-the-doctors-buttocks 1.png */; };
+		3F935FD82BCE29CD00FEA479 /* image_processing20210908-28253-1pngn56 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FCD2BCE29CD00FEA479 /* image_processing20210908-28253-1pngn56 1.png */; };
+		3F935FD92BCE29CD00FEA479 /* images 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FCE2BCE29CD00FEA479 /* images 1.png */; };
+		3F935FDB2BCE29F200FEA479 /* Rectangle 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FDA2BCE29F200FEA479 /* Rectangle 11.png */; };
+		3F935FDD2BCE319C00FEA479 /* feature 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FDC2BCE319B00FEA479 /* feature 1.png */; };
+		3F935FDF2BCE37CB00FEA479 /* by ADYEN Pharmaceutical.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FDE2BCE37CB00FEA479 /* by ADYEN Pharmaceutical.png */; };
+		3F935FE12BCE382600FEA479 /* Rectangle 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FE02BCE382600FEA479 /* Rectangle 12.png */; };
+		3F935FE32BCE392500FEA479 /* 360_F_316760432_mxKzePoS2XnF20z8XtP6gpwDkF01GTts 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F935FE22BCE392500FEA479 /* 360_F_316760432_mxKzePoS2XnF20z8XtP6gpwDkF01GTts 1.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3F935F652BCE1E9300FEA479 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F935F452BCE1E8D00FEA479 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F935F4C2BCE1E8D00FEA479;
+			remoteInfo = IOS_Project;
+		};
+		3F935F702BCE1E9300FEA479 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F935F452BCE1E8D00FEA479 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F935F4C2BCE1E8D00FEA479;
+			remoteInfo = IOS_Project;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F0E584D2BD626EA00AC4509 /* home-care-logo-template-illustration-suitable-for-clinic-medical-hospital-app-mobile-icon-pharmacy-etc-vector 1 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-care-logo-template-illustration-suitable-for-clinic-medical-hospital-app-mobile-icon-pharmacy-etc-vector 1 (1).png"; sourceTree = "<group>"; };
+		3F935F4D2BCE1E8D00FEA479 /* IOS_Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS_Project.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F935F502BCE1E8D00FEA479 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3F935F522BCE1E8D00FEA479 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3F935F552BCE1E8E00FEA479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3F935F582BCE1E8E00FEA479 /* IOS_Project.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IOS_Project.xcdatamodel; sourceTree = "<group>"; };
+		3F935F5A2BCE1E9300FEA479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3F935F5D2BCE1E9300FEA479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3F935F5F2BCE1E9300FEA479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F935F642BCE1E9300FEA479 /* IOS_ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS_ProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F935F682BCE1E9300FEA479 /* IOS_ProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS_ProjectTests.swift; sourceTree = "<group>"; };
+		3F935F6A2BCE1E9300FEA479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F935F6F2BCE1E9300FEA479 /* IOS_ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS_ProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F935F732BCE1E9300FEA479 /* IOS_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS_ProjectUITests.swift; sourceTree = "<group>"; };
+		3F935F752BCE1E9300FEA479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F935F852BCE226E00FEA479 /* illustration-of-medicines-for-disease-and-vaccinations-flat-symbol-and-icon-for-drugs-health-pharmacy-can-be-used-for-landing-page-website-web-mobile-apps-flyer-banner-template-poster-free-vector 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "illustration-of-medicines-for-disease-and-vaccinations-flat-symbol-and-icon-for-drugs-health-pharmacy-can-be-used-for-landing-page-website-web-mobile-apps-flyer-banner-template-poster-free-vector 1.png"; sourceTree = "<group>"; };
+		3F935FC42BCE29CB00FEA479 /* lubiark-eye-drop 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lubiark-eye-drop 1.png"; sourceTree = "<group>"; };
+		3F935FC52BCE29CC00FEA479 /* 360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop 1.png"; sourceTree = "<group>"; };
+		3F935FC62BCE29CC00FEA479 /* aavit-mulivitamins-tablets 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aavit-mulivitamins-tablets 1.png"; sourceTree = "<group>"; };
+		3F935FC72BCE29CC00FEA479 /* medicine-syrup-bottle-mockup1 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "medicine-syrup-bottle-mockup1 1.png"; sourceTree = "<group>"; };
+		3F935FC82BCE29CC00FEA479 /* StockUpdate-Pharmaceuticals-03 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "StockUpdate-Pharmaceuticals-03 1.png"; sourceTree = "<group>"; };
+		3F935FC92BCE29CC00FEA479 /* Justin-Syrup-Bottle-100ml 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Justin-Syrup-Bottle-100ml 1.png"; sourceTree = "<group>"; };
+		3F935FCA2BCE29CC00FEA479 /* Free-300ml-Liquid-Medicine-Syrup-Bottle-Mockup-PSD 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Free-300ml-Liquid-Medicine-Syrup-Bottle-Mockup-PSD 1.png"; sourceTree = "<group>"; };
+		3F935FCB2BCE29CC00FEA479 /* updated-covid-vaccine 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "updated-covid-vaccine 1.png"; sourceTree = "<group>"; };
+		3F935FCC2BCE29CC00FEA479 /* Wrong-intramuscular-injection-in-gluteal-region-Pain-in-the-doctors-buttocks 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Wrong-intramuscular-injection-in-gluteal-region-Pain-in-the-doctors-buttocks 1.png"; sourceTree = "<group>"; };
+		3F935FCD2BCE29CD00FEA479 /* image_processing20210908-28253-1pngn56 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image_processing20210908-28253-1pngn56 1.png"; sourceTree = "<group>"; };
+		3F935FCE2BCE29CD00FEA479 /* images 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images 1.png"; sourceTree = "<group>"; };
+		3F935FDA2BCE29F200FEA479 /* Rectangle 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 11.png"; sourceTree = "<group>"; };
+		3F935FDC2BCE319B00FEA479 /* feature 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "feature 1.png"; sourceTree = "<group>"; };
+		3F935FDE2BCE37CB00FEA479 /* by ADYEN Pharmaceutical.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "by ADYEN Pharmaceutical.png"; sourceTree = "<group>"; };
+		3F935FE02BCE382600FEA479 /* Rectangle 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 12.png"; sourceTree = "<group>"; };
+		3F935FE22BCE392500FEA479 /* 360_F_316760432_mxKzePoS2XnF20z8XtP6gpwDkF01GTts 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "360_F_316760432_mxKzePoS2XnF20z8XtP6gpwDkF01GTts 1.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F935F4A2BCE1E8D00FEA479 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F935F612BCE1E9300FEA479 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F935F6C2BCE1E9300FEA479 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F935F442BCE1E8D00FEA479 = {
+			isa = PBXGroup;
+			children = (
+				3F935F4F2BCE1E8D00FEA479 /* IOS_Project */,
+				3F935F672BCE1E9300FEA479 /* IOS_ProjectTests */,
+				3F935F722BCE1E9300FEA479 /* IOS_ProjectUITests */,
+				3F935F4E2BCE1E8D00FEA479 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F935F4E2BCE1E8D00FEA479 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F935F4D2BCE1E8D00FEA479 /* IOS_Project.app */,
+				3F935F642BCE1E9300FEA479 /* IOS_ProjectTests.xctest */,
+				3F935F6F2BCE1E9300FEA479 /* IOS_ProjectUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3F935F4F2BCE1E8D00FEA479 /* IOS_Project */ = {
+			isa = PBXGroup;
+			children = (
+				3F935F502BCE1E8D00FEA479 /* AppDelegate.swift */,
+				3F935F522BCE1E8D00FEA479 /* ViewController.swift */,
+				3F935F542BCE1E8E00FEA479 /* Main.storyboard */,
+				3F935F5A2BCE1E9300FEA479 /* Assets.xcassets */,
+				3F935FE22BCE392500FEA479 /* 360_F_316760432_mxKzePoS2XnF20z8XtP6gpwDkF01GTts 1.png */,
+				3F935FE02BCE382600FEA479 /* Rectangle 12.png */,
+				3F935FDE2BCE37CB00FEA479 /* by ADYEN Pharmaceutical.png */,
+				3F935FDC2BCE319B00FEA479 /* feature 1.png */,
+				3F935FDA2BCE29F200FEA479 /* Rectangle 11.png */,
+				3F935FC52BCE29CC00FEA479 /* 360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop 1.png */,
+				3F935FC62BCE29CC00FEA479 /* aavit-mulivitamins-tablets 1.png */,
+				3F935FCA2BCE29CC00FEA479 /* Free-300ml-Liquid-Medicine-Syrup-Bottle-Mockup-PSD 1.png */,
+				3F935FCD2BCE29CD00FEA479 /* image_processing20210908-28253-1pngn56 1.png */,
+				3F0E584D2BD626EA00AC4509 /* home-care-logo-template-illustration-suitable-for-clinic-medical-hospital-app-mobile-icon-pharmacy-etc-vector 1 (1).png */,
+				3F935FCE2BCE29CD00FEA479 /* images 1.png */,
+				3F935FC92BCE29CC00FEA479 /* Justin-Syrup-Bottle-100ml 1.png */,
+				3F935FC42BCE29CB00FEA479 /* lubiark-eye-drop 1.png */,
+				3F935FC72BCE29CC00FEA479 /* medicine-syrup-bottle-mockup1 1.png */,
+				3F935FC82BCE29CC00FEA479 /* StockUpdate-Pharmaceuticals-03 1.png */,
+				3F935FCB2BCE29CC00FEA479 /* updated-covid-vaccine 1.png */,
+				3F935FCC2BCE29CC00FEA479 /* Wrong-intramuscular-injection-in-gluteal-region-Pain-in-the-doctors-buttocks 1.png */,
+				3F935F852BCE226E00FEA479 /* illustration-of-medicines-for-disease-and-vaccinations-flat-symbol-and-icon-for-drugs-health-pharmacy-can-be-used-for-landing-page-website-web-mobile-apps-flyer-banner-template-poster-free-vector 1.png */,
+				3F935F5C2BCE1E9300FEA479 /* LaunchScreen.storyboard */,
+				3F935F5F2BCE1E9300FEA479 /* Info.plist */,
+				3F935F572BCE1E8E00FEA479 /* IOS_Project.xcdatamodeld */,
+			);
+			path = IOS_Project;
+			sourceTree = "<group>";
+		};
+		3F935F672BCE1E9300FEA479 /* IOS_ProjectTests */ = {
+			isa = PBXGroup;
+			children = (
+				3F935F682BCE1E9300FEA479 /* IOS_ProjectTests.swift */,
+				3F935F6A2BCE1E9300FEA479 /* Info.plist */,
+			);
+			path = IOS_ProjectTests;
+			sourceTree = "<group>";
+		};
+		3F935F722BCE1E9300FEA479 /* IOS_ProjectUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3F935F732BCE1E9300FEA479 /* IOS_ProjectUITests.swift */,
+				3F935F752BCE1E9300FEA479 /* Info.plist */,
+			);
+			path = IOS_ProjectUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F935F4C2BCE1E8D00FEA479 /* IOS_Project */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F935F782BCE1E9300FEA479 /* Build configuration list for PBXNativeTarget "IOS_Project" */;
+			buildPhases = (
+				3F935F492BCE1E8D00FEA479 /* Sources */,
+				3F935F4A2BCE1E8D00FEA479 /* Frameworks */,
+				3F935F4B2BCE1E8D00FEA479 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IOS_Project;
+			productName = IOS_Project;
+			productReference = 3F935F4D2BCE1E8D00FEA479 /* IOS_Project.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F935F632BCE1E9300FEA479 /* IOS_ProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F935F7B2BCE1E9300FEA479 /* Build configuration list for PBXNativeTarget "IOS_ProjectTests" */;
+			buildPhases = (
+				3F935F602BCE1E9300FEA479 /* Sources */,
+				3F935F612BCE1E9300FEA479 /* Frameworks */,
+				3F935F622BCE1E9300FEA479 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F935F662BCE1E9300FEA479 /* PBXTargetDependency */,
+			);
+			name = IOS_ProjectTests;
+			productName = IOS_ProjectTests;
+			productReference = 3F935F642BCE1E9300FEA479 /* IOS_ProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3F935F6E2BCE1E9300FEA479 /* IOS_ProjectUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F935F7E2BCE1E9300FEA479 /* Build configuration list for PBXNativeTarget "IOS_ProjectUITests" */;
+			buildPhases = (
+				3F935F6B2BCE1E9300FEA479 /* Sources */,
+				3F935F6C2BCE1E9300FEA479 /* Frameworks */,
+				3F935F6D2BCE1E9300FEA479 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F935F712BCE1E9300FEA479 /* PBXTargetDependency */,
+			);
+			name = IOS_ProjectUITests;
+			productName = IOS_ProjectUITests;
+			productReference = 3F935F6F2BCE1E9300FEA479 /* IOS_ProjectUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F935F452BCE1E8D00FEA479 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1000;
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = Student;
+				TargetAttributes = {
+					3F935F4C2BCE1E8D00FEA479 = {
+						CreatedOnToolsVersion = 10.0;
+					};
+					3F935F632BCE1E9300FEA479 = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = 3F935F4C2BCE1E8D00FEA479;
+					};
+					3F935F6E2BCE1E9300FEA479 = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = 3F935F4C2BCE1E8D00FEA479;
+					};
+				};
+			};
+			buildConfigurationList = 3F935F482BCE1E8D00FEA479 /* Build configuration list for PBXProject "IOS_Project" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F935F442BCE1E8D00FEA479;
+			productRefGroup = 3F935F4E2BCE1E8D00FEA479 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F935F4C2BCE1E8D00FEA479 /* IOS_Project */,
+				3F935F632BCE1E9300FEA479 /* IOS_ProjectTests */,
+				3F935F6E2BCE1E9300FEA479 /* IOS_ProjectUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F935F4B2BCE1E8D00FEA479 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F935FD42BCE29CD00FEA479 /* Justin-Syrup-Bottle-100ml 1.png in Resources */,
+				3F935FD12BCE29CD00FEA479 /* aavit-mulivitamins-tablets 1.png in Resources */,
+				3F935FD52BCE29CD00FEA479 /* Free-300ml-Liquid-Medicine-Syrup-Bottle-Mockup-PSD 1.png in Resources */,
+				3F935FD22BCE29CD00FEA479 /* medicine-syrup-bottle-mockup1 1.png in Resources */,
+				3F935FDF2BCE37CB00FEA479 /* by ADYEN Pharmaceutical.png in Resources */,
+				3F935FD72BCE29CD00FEA479 /* Wrong-intramuscular-injection-in-gluteal-region-Pain-in-the-doctors-buttocks 1.png in Resources */,
+				3F935FDD2BCE319C00FEA479 /* feature 1.png in Resources */,
+				3F0E584E2BD626EB00AC4509 /* home-care-logo-template-illustration-suitable-for-clinic-medical-hospital-app-mobile-icon-pharmacy-etc-vector 1 (1).png in Resources */,
+				3F935F862BCE226E00FEA479 /* illustration-of-medicines-for-disease-and-vaccinations-flat-symbol-and-icon-for-drugs-health-pharmacy-can-be-used-for-landing-page-website-web-mobile-apps-flyer-banner-template-poster-free-vector 1.png in Resources */,
+				3F935FDB2BCE29F200FEA479 /* Rectangle 11.png in Resources */,
+				3F935FD92BCE29CD00FEA479 /* images 1.png in Resources */,
+				3F935F5E2BCE1E9300FEA479 /* LaunchScreen.storyboard in Resources */,
+				3F935FE12BCE382600FEA479 /* Rectangle 12.png in Resources */,
+				3F935FCF2BCE29CD00FEA479 /* lubiark-eye-drop 1.png in Resources */,
+				3F935F5B2BCE1E9300FEA479 /* Assets.xcassets in Resources */,
+				3F935FD02BCE29CD00FEA479 /* 360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop 1.png in Resources */,
+				3F935FD32BCE29CD00FEA479 /* StockUpdate-Pharmaceuticals-03 1.png in Resources */,
+				3F935FD82BCE29CD00FEA479 /* image_processing20210908-28253-1pngn56 1.png in Resources */,
+				3F935FE32BCE392500FEA479 /* 360_F_316760432_mxKzePoS2XnF20z8XtP6gpwDkF01GTts 1.png in Resources */,
+				3F935FD62BCE29CD00FEA479 /* updated-covid-vaccine 1.png in Resources */,
+				3F935F562BCE1E8E00FEA479 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F935F622BCE1E9300FEA479 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F935F6D2BCE1E9300FEA479 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F935F492BCE1E8D00FEA479 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F935F532BCE1E8D00FEA479 /* ViewController.swift in Sources */,
+				3F935F512BCE1E8D00FEA479 /* AppDelegate.swift in Sources */,
+				3F935F592BCE1E8E00FEA479 /* IOS_Project.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F935F602BCE1E9300FEA479 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F935F692BCE1E9300FEA479 /* IOS_ProjectTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F935F6B2BCE1E9300FEA479 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F935F742BCE1E9300FEA479 /* IOS_ProjectUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F935F662BCE1E9300FEA479 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F935F4C2BCE1E8D00FEA479 /* IOS_Project */;
+			targetProxy = 3F935F652BCE1E9300FEA479 /* PBXContainerItemProxy */;
+		};
+		3F935F712BCE1E9300FEA479 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F935F4C2BCE1E8D00FEA479 /* IOS_Project */;
+			targetProxy = 3F935F702BCE1E9300FEA479 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3F935F542BCE1E8E00FEA479 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F935F552BCE1E8E00FEA479 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3F935F5C2BCE1E9300FEA479 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3F935F5D2BCE1E9300FEA479 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3F935F762BCE1E9300FEA479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3F935F772BCE1E9300FEA479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F935F792BCE1E9300FEA479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = IOS_Project/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "rku.IOS-Project";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3F935F7A2BCE1E9300FEA479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = IOS_Project/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "rku.IOS-Project";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3F935F7C2BCE1E9300FEA479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = IOS_ProjectTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "rku.IOS-ProjectTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IOS_Project.app/IOS_Project";
+			};
+			name = Debug;
+		};
+		3F935F7D2BCE1E9300FEA479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = IOS_ProjectTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "rku.IOS-ProjectTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IOS_Project.app/IOS_Project";
+			};
+			name = Release;
+		};
+		3F935F7F2BCE1E9300FEA479 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = IOS_ProjectUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "rku.IOS-ProjectUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = IOS_Project;
+			};
+			name = Debug;
+		};
+		3F935F802BCE1E9300FEA479 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = IOS_ProjectUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "rku.IOS-ProjectUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = IOS_Project;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F935F482BCE1E8D00FEA479 /* Build configuration list for PBXProject "IOS_Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F935F762BCE1E9300FEA479 /* Debug */,
+				3F935F772BCE1E9300FEA479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F935F782BCE1E9300FEA479 /* Build configuration list for PBXNativeTarget "IOS_Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F935F792BCE1E9300FEA479 /* Debug */,
+				3F935F7A2BCE1E9300FEA479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F935F7B2BCE1E9300FEA479 /* Build configuration list for PBXNativeTarget "IOS_ProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F935F7C2BCE1E9300FEA479 /* Debug */,
+				3F935F7D2BCE1E9300FEA479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F935F7E2BCE1E9300FEA479 /* Build configuration list for PBXNativeTarget "IOS_ProjectUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F935F7F2BCE1E9300FEA479 /* Debug */,
+				3F935F802BCE1E9300FEA479 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		3F935F572BCE1E8E00FEA479 /* IOS_Project.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				3F935F582BCE1E8E00FEA479 /* IOS_Project.xcdatamodel */,
+			);
+			currentVersion = 3F935F582BCE1E8E00FEA479 /* IOS_Project.xcdatamodel */;
+			path = IOS_Project.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 3F935F452BCE1E8D00FEA479 /* Project object */;
+}
